@@ -4,6 +4,12 @@ This repository contains a comprehensive web application built using the MERN st
 
 ## Technology Used
 
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</a>
+
+</div>
 
 ## Features
 
